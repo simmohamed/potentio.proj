@@ -1,2 +1,0 @@
-# potentio.proj
-just testing
