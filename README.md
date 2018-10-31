@@ -1,2 +1,2 @@
 # potentio.proj
-just testing
+just testing the exercise 
